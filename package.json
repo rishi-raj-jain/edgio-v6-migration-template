@@ -1,0 +1,7 @@
+{
+  "name": "edgio-v6-migration-template",
+  "devDependencies": {
+    "@edgio/cli": "^6.1.8",
+    "@edgio/core": "^6.1.8"
+  }
+}
